@@ -1,17 +1,4 @@
-# Task 2: AUTOMATED REPORT GENERATION 
-
-COMPANY: COTECH IT SOLUTIONS
-
-NAME: SURABHI SANJAY KHATALE
-
-INTERN ID: CT04DG167
-
-DOMAIN: PYTHON PROGRAMMING
-
-MENTOR: VAISHALI SHRIVASTAVA
-
-DESCRIPTION--
-
+# AUTOMATED REPORT GENERATION 
 
 This Python project automates the process of reading a CSV file, analyzing its contents (numeric and categorical), visualizing trends, and generating a professional PDF report using `ReportLab`. It's a useful tool for data analysts, students, or anyone who needs to quickly summarize datasets into clean, readable reports.
 
